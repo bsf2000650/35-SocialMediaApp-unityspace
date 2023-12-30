@@ -9,7 +9,7 @@ const App = () => {
     <>
       <Router>
         <Routes>
-          <Route path='/' element={<SignUp />} />
+          <Route path='/35-SocialMediaApp-unityspace' element={<SignUp />} />
           <Route path='/Login' element={<Login />} />
         </Routes>
       </Router>
